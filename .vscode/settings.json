@@ -1,0 +1,5 @@
+{
+    "dbcode.ai.inlineCompletion": false,
+    "chat.disableAIFeatures": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
