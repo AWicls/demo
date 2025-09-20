@@ -1,2 +1,11 @@
-target\
-.vscode\
+target/
+.vscode/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+.DS_Store
+Thumbs.db
+ logs/
+ *.log
