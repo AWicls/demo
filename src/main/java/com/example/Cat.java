@@ -1,3 +1,4 @@
+package com.example;
 public class Cat {
 
     private String name;
